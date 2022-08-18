@@ -1,10 +1,13 @@
 ## 💲 About the project
 
-<p>DT Money is a personal financial account control that registers incoming and outgoing accounts, totaling in cards using a Fake API MirajeJS library that uses the JSON format to make the entries.</p>
+<p>DtMoney is a personal financial account control that records incoming and outgoing balances. Using a library, the Fake API MirajeJS which uses the JSON format to make the entries.</p>
 
 <h1 align="center">
 	<img alt="Project Screenshots" src="https://user-images.githubusercontent.com/60144605/185251931-405764a1-3992-4831-aec6-5331561e1b59.png" />
 </h1>
+
+https://user-images.githubusercontent.com/60144605/185456440-9213aec5-0bb0-44aa-8536-075636b4b1ef.mp4
+
 
 ## 🚀 Frontend Technologies
 
@@ -17,9 +20,8 @@ Technologies and librarys that I used to develop this frontend app
   - Polished
 - TypeScript
 
-Tools to create fake API
-
-- Mirage.js
+- Tools to create fake API
+  - Mirage.js
 
 
 ## ⚙️ Running the Project
@@ -27,8 +29,7 @@ Tools to create fake API
 ### Requirements
 
 - [Node.js](https://nodejs.org/en/)
-- [npm](https://www.npmjs.com/)
-- [yarn](https://yarnpkg.com/cli/install)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/cli/install)
 
 
 Clone the project and access the folder
